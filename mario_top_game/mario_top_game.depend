@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1717839757 source:c:\c\mario_top_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gameObjects.h"
+	"gameMap.h"
+	"collision.h"
+	"gameLevels.h"
+	"gameUtils.h"
+	"gameUI.h"
+	"gameHandlers.h"
+	"MoveObjects.h"
+	"handleKeys.h"
+
+1717765987 source:c:\c\mario_top_game\collision.c
+	"collision.h"
+
+1717738918 c:\c\mario_top_game\collision.h
+	"gameObjects.h"
+	"gameMap.h"
+	<stdio.h>
+
+1717738918 c:\c\mario_top_game\gameobjects.h
+	<windows.h>
+
+1717738918 source:c:\c\mario_top_game\gameobjects.c
+	"gameObjects.h"
+
+1716635057 source:c:\c\mario_top_game\nuc.c
+
+1717788459 source:c:\c\mario_top_game\gamemap.c
+	"gameMap.h"
+
+1717494278 c:\c\mario_top_game\gamemap.h
+	"gameObjects.h"
+	<windows.h>
+
+1717840054 source:c:\c\mario_top_game\gameui.c
+	"gameUI.h"
+
+1717104367 c:\c\mario_top_game\gameui.h
+	<stdio.h>
+	<windows.h>
+
+1717670262 c:\c\mario_top_game\gamelevels.h
+	"gameObjects.h"
+	"gameMap.h"
+	<stdio.h>
+	<stdlib.h>
+
+1717532068 c:\c\mario_top_game\gameutils.h
+	<stdio.h>
+	<windows.h>
+	"gameMap.h"
+
+1717701249 c:\c\mario_top_game\gamehandlers.h
+	<stdio.h>
+	"gameObjects.h"
+	"gameMap.h"
+
+1717104632 c:\c\mario_top_game\moveobjects.h
+	"gameObjects.h"
+	"gameMap.h"
+	<stdio.h>
+
+1717761828 source:c:\c\mario_top_game\gamehandlers.c
+	"gameHandlers.h"
+
+1717840054 source:c:\c\mario_top_game\moveobjects.c
+	"MoveObjects.h"
+
+1717842546 source:c:\c\mario_top_game\gamelevels.c
+	"gameLevels.h"
+
+1717840535 source:c:\c\mario_top_game\gameutils.c
+	"gameUtils.h"
+
+1717582102 c:\c\mario_top_game\handlekeys.h
+	"gameObjects.h"
+	<stdio.h>
+
+1717838873 source:c:\c\mario_top_game\handlekeys.c
+	"handleKeys.h"
+
